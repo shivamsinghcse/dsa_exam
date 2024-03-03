@@ -1,3 +1,4 @@
+ //linear linklist
  #include<stdio.h>
  #include<stdlib.h>
  
